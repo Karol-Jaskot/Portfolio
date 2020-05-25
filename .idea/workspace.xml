@@ -66,10 +66,18 @@
       <workItem from="1582065027597" duration="50000" />
       <workItem from="1582065320153" duration="35000" />
       <workItem from="1582120427146" duration="333000" />
+      <workItem from="1582662602202" duration="103000" />
+      <workItem from="1590394938405" duration="1424000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="342" y="223" key="new project wizard" timestamp="1582662707820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="223" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582662707820" />
   </component>
 </project>
